@@ -1,0 +1,23 @@
+{
+  "name": "insane_insanitycard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viola0222/inSANe_insanityCard.git"
+  },
+  "author": "viola0222",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/viola0222/inSANe_insanityCard/issues"
+  },
+  "homepage": "https://github.com/viola0222/inSANe_insanityCard#readme",
+  "devDependencies": {
+    "electron": "^8.0.3"
+  }
+}
