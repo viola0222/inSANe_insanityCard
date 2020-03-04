@@ -1,0 +1,1 @@
+# inSANe_insanityCard
