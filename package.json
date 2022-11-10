@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/viola0222/inSANe_insanityCard#readme",
   "devDependencies": {
-    "electron": "^8.0.3"
+    "electron": "^18.3.7"
   }
 }
